@@ -1,0 +1,27 @@
+body{
+
+   /* background-color:  red;*/
+}
+body div{
+
+    border: 1px solid black;
+    padding: 20px;
+}
+body div ol li{
+    border: 1px solid black;
+    margin: 3px;
+    padding: 4px;
+}
+#codes {
+
+    margin: 10px auto;
+}
+#codes a{
+    text-decoration: none;
+    text-align: center;
+    padding: 4px;
+    
+}
+#codes button {
+    margin-top: 5px;
+}
